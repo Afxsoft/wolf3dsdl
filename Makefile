@@ -21,9 +21,9 @@ LIB = libft/libft.a
 
 FLAG = -Wall -Wextra -Werror -O3
 
-LIBGRPH = /Users/aouloube/.brew/lib -lSDL2
+LIBGRPH = SDL/lib -lSDL2
 
-INCLUDE = /Users/aouloube/.brew/include/SDL2
+INCLUDE = SDL/include
 
 INC = wolf3dl.h
 
